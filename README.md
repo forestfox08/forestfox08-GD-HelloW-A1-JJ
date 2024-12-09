@@ -1,3 +1,5 @@
 # Message from the creator
 
-this was for school, enjoy lol
+Ik moest nieuwe repository maken want het werkte voor een of andere reden niet om het te commiten :/
+
+sorry voor het ongemak!
