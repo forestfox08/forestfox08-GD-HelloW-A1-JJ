@@ -12,3 +12,5 @@ Volgende keer zou ik het liever zelf willen coderen maar ik wilde z.s.m mijn opd
 Bovendien had ik deze movement mechanics al toegevoegd aan het begin toen ik de wereld nog aan het maken was, dit deed ik zodat het makkelijker was om rond te kijken in mijn wereld.
 
 J.J.
+
+2024
